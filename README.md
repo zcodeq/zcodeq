@@ -37,3 +37,7 @@
 - https://github.com/Rain-shadow/cdr
 
 - https://github.com/Code52/carnac
+
+- https://github.com/yu-steven/openit/tree/main/sub
+
+- https://github.com/alanbobs999/TopFreeProxies
